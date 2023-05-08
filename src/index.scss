@@ -1,0 +1,18 @@
+.list-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.9;
+}
+
+.link {
+  height: min-content;
+}
+
+.errtxt {
+  font-size: 1rem;
+  text-align: start;
+  font-style: italic;
+  margin-left: 1rem;
+}
